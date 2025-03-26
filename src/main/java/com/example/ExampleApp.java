@@ -1,6 +1,6 @@
 package com.example;
 
-import com.example.greetings.Greeting;
+import com.example.greeting.Greeting;
 
 public class ExampleApp {
     public static void main(String[] args) {

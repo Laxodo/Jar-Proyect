@@ -1,4 +1,4 @@
-package com.example.greetings;
+package com.example.greeting;
 
 public class Greeting {
     public String getGreeting() {
