@@ -1,0 +1,3 @@
+javac -d build .\src\main\java\org\example\ExampleApp.java .\src\main\java\org\example\greeting\Greeting.java
+
+Ejecutado desde la raiz del proyecto.

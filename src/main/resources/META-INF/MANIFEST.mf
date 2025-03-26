@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Built-By: Ernesto Ruiz Hortelano
+Main-Class: com.example.ExampleApp

@@ -1,0 +1,3 @@
+java -jar build/ExampleApp.jar
+
+Desde la raiz del proyecto.
